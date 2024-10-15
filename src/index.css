@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&family=Updock&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Updock&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lily+Script+One&family=Satisfy&family=Updock&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.updock {
+  font-family: "Updock", cursive;
+}
+
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+}
+.lily{
+  font-family: "Lily Script One", system-ui;
+
+}
