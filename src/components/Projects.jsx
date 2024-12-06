@@ -1,25 +1,43 @@
 import React from "react";
-import employeeMSImage from "../assets/employee-ms.png";
-import bookMSImage from "../assets/admin-dashboard.png";
+import employeeMSImage from "../assets/hostit.png";
+import bookMSImage from "../assets/matter js.png";
 
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
+    name: "My Hostit",
     technologies: "MERN Stack",
     image: employeeMSImage,
   },
   {
     id: 2,
-    name: "Blog App",
+    name: "Matter js ",
     technologies: "MERN Stack",
     image: bookMSImage,
   },
   {
     id: 3,
-    name: "Book MS",
+    name: "Finter For Welder",
     technologies: "MERN Stack",
-    image: employeeMSImage,
+    image: "/finter.png",
+  },
+  {
+    id: 4,
+    name: "Guards",
+    technologies: "MERN Stack",
+    image: "/guards.png",
+  },
+  {
+    id: 5,
+    name: "Chatgpt Clone",
+    technologies: "MERN Stack",
+    image: "/chatgpt.png",
+  },
+  {
+    id: 6,
+    name: "Xtrail",
+    technologies: "MERN Stack",
+    image: "/xtrail.png",
   },
 ];
 const Projects = () => {
