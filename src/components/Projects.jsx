@@ -35,9 +35,9 @@ const projects = [
   },
   {
     id: 6,
-    name: "Xtrail",
+    name: "Healet",
     technologies: "MERN Stack",
-    image: "/xtrail.png",
+    image: "/healet.png",
   },
 ];
 const Projects = () => {
